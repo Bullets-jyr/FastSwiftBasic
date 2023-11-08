@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		F733AB2C2AE61A95003F349F /* Choice.swift in Sources */ = {isa = PBXBuildFile; fileRef = F733AB2B2AE61A95003F349F /* Choice.swift */; };
 		F78235F82AE76659008937EC /* Selection.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78235F72AE76659008937EC /* Selection.swift */; };
+		F7A8E2572AF890CF0050BD83 /* Exception.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A8E2562AF890CF0050BD83 /* Exception.swift */; };
+		F7A8E2592AF896B90050BD83 /* MyCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A8E2582AF896B90050BD83 /* MyCar.swift */; };
 		F7AF7B082ACF32D50073B28A /* FastSwiftBasicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7AF7B072ACF32D50073B28A /* FastSwiftBasicApp.swift */; };
 		F7AF7B0A2ACF32D50073B28A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7AF7B092ACF32D50073B28A /* ContentView.swift */; };
 		F7AF7B0C2ACF32D60073B28A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7AF7B0B2ACF32D60073B28A /* Assets.xcassets */; };
@@ -17,6 +19,7 @@
 		F7AF7B242ACF32D60073B28A /* FastSwiftBasicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7AF7B232ACF32D60073B28A /* FastSwiftBasicUITests.swift */; };
 		F7AF7B262ACF32D60073B28A /* FastSwiftBasicUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7AF7B252ACF32D60073B28A /* FastSwiftBasicUITestsLaunchTests.swift */; };
 		F7B30ADD2AE8C44D0020BBB6 /* Nill.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B30ADC2AE8C44D0020BBB6 /* Nill.swift */; };
+		F7B41ED92AEF57B700A6BE60 /* Option.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B41ED82AEF57B700A6BE60 /* Option.swift */; };
 		F7BAB9D72ADCE2A000A7AE90 /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BAB9D62ADCE2A000A7AE90 /* Function.swift */; };
 		F7BAB9D92ADCE75B00A7AE90 /* Half.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BAB9D82ADCE75B00A7AE90 /* Half.swift */; };
 		F7BCBB832AD4FFBF00958562 /* VariableType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BCBB822AD4FFBF00958562 /* VariableType.swift */; };
@@ -25,6 +28,7 @@
 		F7BDB5042ADF89C800776404 /* Diff.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BDB5032ADF89C800776404 /* Diff.swift */; };
 		F7D499E02AD79E0300E3DF11 /* Condition.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D499DF2AD79E0300E3DF11 /* Condition.swift */; };
 		F7D499E22AD7A28A00E3DF11 /* Loop.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D499E12AD7A28A00E3DF11 /* Loop.swift */; };
+		F7FE23772AF1F6E5007679F2 /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FE23762AF1F6E5007679F2 /* Sample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,8 @@
 /* Begin PBXFileReference section */
 		F733AB2B2AE61A95003F349F /* Choice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Choice.swift; sourceTree = "<group>"; };
 		F78235F72AE76659008937EC /* Selection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Selection.swift; sourceTree = "<group>"; };
+		F7A8E2562AF890CF0050BD83 /* Exception.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exception.swift; sourceTree = "<group>"; };
+		F7A8E2582AF896B90050BD83 /* MyCar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCar.swift; sourceTree = "<group>"; };
 		F7AF7B042ACF32D50073B28A /* FastSwiftBasic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FastSwiftBasic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7AF7B072ACF32D50073B28A /* FastSwiftBasicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastSwiftBasicApp.swift; sourceTree = "<group>"; };
 		F7AF7B092ACF32D50073B28A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +65,7 @@
 		F7AF7B232ACF32D60073B28A /* FastSwiftBasicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastSwiftBasicUITests.swift; sourceTree = "<group>"; };
 		F7AF7B252ACF32D60073B28A /* FastSwiftBasicUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastSwiftBasicUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F7B30ADC2AE8C44D0020BBB6 /* Nill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nill.swift; sourceTree = "<group>"; };
+		F7B41ED82AEF57B700A6BE60 /* Option.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Option.swift; sourceTree = "<group>"; };
 		F7BAB9D62ADCE2A000A7AE90 /* Function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
 		F7BAB9D82ADCE75B00A7AE90 /* Half.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Half.swift; sourceTree = "<group>"; };
 		F7BCBB822AD4FFBF00958562 /* VariableType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableType.swift; sourceTree = "<group>"; };
@@ -67,6 +74,7 @@
 		F7BDB5032ADF89C800776404 /* Diff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diff.swift; sourceTree = "<group>"; };
 		F7D499DF2AD79E0300E3DF11 /* Condition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Condition.swift; sourceTree = "<group>"; };
 		F7D499E12AD7A28A00E3DF11 /* Loop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loop.swift; sourceTree = "<group>"; };
+		F7FE23762AF1F6E5007679F2 /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +141,10 @@
 				F733AB2B2AE61A95003F349F /* Choice.swift */,
 				F78235F72AE76659008937EC /* Selection.swift */,
 				F7B30ADC2AE8C44D0020BBB6 /* Nill.swift */,
+				F7B41ED82AEF57B700A6BE60 /* Option.swift */,
+				F7FE23762AF1F6E5007679F2 /* Sample.swift */,
+				F7A8E2562AF890CF0050BD83 /* Exception.swift */,
+				F7A8E2582AF896B90050BD83 /* MyCar.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -294,13 +306,17 @@
 			files = (
 				F78235F82AE76659008937EC /* Selection.swift in Sources */,
 				F7BAB9D92ADCE75B00A7AE90 /* Half.swift in Sources */,
+				F7B41ED92AEF57B700A6BE60 /* Option.swift in Sources */,
 				F7BCBB832AD4FFBF00958562 /* VariableType.swift in Sources */,
 				F733AB2C2AE61A95003F349F /* Choice.swift in Sources */,
 				F7AF7B0A2ACF32D50073B28A /* ContentView.swift in Sources */,
 				F7BAB9D72ADCE2A000A7AE90 /* Function.swift in Sources */,
 				F7AF7B082ACF32D50073B28A /* FastSwiftBasicApp.swift in Sources */,
 				F7D499E22AD7A28A00E3DF11 /* Loop.swift in Sources */,
+				F7A8E2572AF890CF0050BD83 /* Exception.swift in Sources */,
+				F7A8E2592AF896B90050BD83 /* MyCar.swift in Sources */,
 				F7BDB5042ADF89C800776404 /* Diff.swift in Sources */,
+				F7FE23772AF1F6E5007679F2 /* Sample.swift in Sources */,
 				F7BCBB852AD505C700958562 /* MyCollections.swift in Sources */,
 				F7D499E02AD79E0300E3DF11 /* Condition.swift in Sources */,
 				F7BDB5022ADF841D00776404 /* Elevator.swift in Sources */,

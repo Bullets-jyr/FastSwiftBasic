@@ -55,14 +55,14 @@ struct Selection: View {
     }
 }
 
-enum Direction: String {
-    case north = "북"
-    case west = "서"
-    case east = "동"
-    case south = "남"
-//    case myWay
-//    case back
-}
+//enum Direction: String {
+//    case north = "북"
+//    case west = "서"
+//    case east = "동"
+//    case south = "남"
+////    case myWay
+////    case back
+//}
 
 #Preview {
     Selection()
